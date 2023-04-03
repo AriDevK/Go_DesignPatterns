@@ -1,13 +1,22 @@
-# Practicas - Patrones de diseño y Concurrencia 
+# ✨ Practicas - Patrones de diseño y Concurrencia 
 
----
 
-En estas practicas se implementaron varios patrones de diseño ademas de utilizar ciertas librerias para el manejo de mensajes
-por el protocolo TCP y manejo de concurrencia.
+<img src="https://github.com/Ari-Qu3sadillas/Go_DesignPatterns_Platzi/blob/main/repo_assets/ari_godance.gif" width="400" align="right">
 
-<img src="" width="480">
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+
+<p align="left">
+  En estas practicas se implementaron varios patrones de diseño ademas de utilizar ciertas librerias para el manejo de mensajes
+  por el protocolo TCP y manejo de concurrencia.
+
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  
+</p>
+
+
+
+
 
 
 ### Patrones Implementados
